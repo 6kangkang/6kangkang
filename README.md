@@ -1,5 +1,5 @@
 - 👋 Hi, I’m kangkang,i love software engineering and I think it is a interesting major
-- 👀 I’m asophomore now and is interested in programming
+- 👀 I’m  interested in programming
 - 🌱 I’m currently learning c++ 
 
 <!---

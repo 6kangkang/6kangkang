@@ -1,4 +1,4 @@
-- 👋 Hi, I’m kangkang,a student of Hunan College of Science and technology,my major is software engineering and I think it is a interesting major
+- 👋 Hi, I’m kangkang,i love software engineering and I think it is a interesting major
 - 👀 I’m asophomore now and is interested in programming
 - 🌱 I’m currently learning c++ 
 
